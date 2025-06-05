@@ -1,0 +1,22 @@
+# Core Streamlit framework
+streamlit>=1.28.0
+
+# Environment variables management
+python-dotenv>=1.0.0
+
+# Email functionality
+sendgrid>=6.10.0
+
+# Async support for Streamlit
+nest-asyncio>=1.5.6
+
+# OpenAI Agents SDK (core dependency)
+# Note: Install with: pip install git+https://github.com/openai/openai-agents.git
+# or check OpenAI documentation for the latest installation method
+openai-agents
+
+# Pydantic for data validation (required by agents)
+pydantic>=2.5.0
+
+# HTTP requests and web functionality
+requests>=2.31.0
