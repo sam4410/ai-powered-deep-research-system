@@ -62,6 +62,11 @@ The AI Research Assistant revolutionizes the research process by automating the 
                                               └─────────────────┘
 ```
 
+## AI Research Assistant - Agent Flow 
+
+![image](https://github.com/user-attachments/assets/ea02568d-ff1b-4490-a983-13e0b7858e8e)
+
+
 ## 🛠️ Implementation Details
 
 ### Core Components
